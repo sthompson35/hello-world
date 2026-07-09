@@ -2,6 +2,8 @@
 Hello World
 Last Updated: July 2026
 
+Badge update: small documentation tweak.
+
 Overview
 
 This repository represents a personal milestone in my journey as an African American developer stepping into the world of software engineering. Originally created in 2020 as a foundational hello-world project, it has since evolved into a space dedicated to learning, exploration, and growth in repository-based programming.
